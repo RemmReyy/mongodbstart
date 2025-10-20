@@ -29,11 +29,11 @@ public class SalesMan {
         this.lastname = lastname;
     }
 
-    public Integer getId() {
+    public Integer getSid() {
         return sid;
     }
 
-    public void setId(Integer sid) {
+    public void setSid(Integer sid) {
         this.sid = sid;
     }
 
